@@ -369,3 +369,6 @@ Transferred: sent 2212, received 2760 bytes, in 0.7 seconds
 Bytes per second: sent 3113.7, received 3885.1
 Already up to date.
 
+Answer 13
+.  ..  a.out  .git  .gitignore	git-lab-program.cc  README.md
+
