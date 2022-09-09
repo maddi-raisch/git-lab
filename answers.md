@@ -316,3 +316,56 @@ Untracked files:
 	answers.md
 
 Answer 6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   README.md
+	new file:   answers.md
+
+Answer 7
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 8
+commit 9fe33aebc9b080d0ab32e69c745cb75b883d44e9
+Author: Maddi Raisch <mr593719@ohio.edu>
+Date:   Fri Sep 9 14:12:07 2022 -0400
+
+    Initial commit
+Answer 9
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+Answer 10
+
+mr593719@ohio.edu
+I recorded my answers in the answers.md file
+Answer 11
+Warning: Permanently added the ECDSA host key for IP address '140.82.113.3' to the list of known hosts.
+Authenticated to github.com ([140.82.113.3]:22).
+Transferred: sent 2212, received 2576 bytes, in 0.2 seconds
+Bytes per second: sent 11329.6, received 13194.0
+Everything up-to-date
+
+Answer 12
+Authenticated to github.com ([140.82.114.4]:22).
+Transferred: sent 2212, received 2760 bytes, in 0.7 seconds
+Bytes per second: sent 3113.7, received 3885.1
+Already up to date.
+
